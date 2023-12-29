@@ -7,12 +7,10 @@ Hey there! 👋 I'm Kush Patel, a passionate engineer on a journey to master the
 - **Master of Science in Engineering Management**
   - College of Engineering, Northeastern University, Boston, MA
   - Expected Graduation: May 2025
-  - Unleashing the power of knowledge in Deterministic Operation Research and Engineering Probability & Statics.
 
 - **Bachelor of Technology in Electrical Engineering**
   - Institute of Technology, Nirma University, Ahmedabad, Gujarat, India
   - Graduated: Jun 2020
-  - Delving deep into Power System Protection, Electrical Machine Design, and the electrifying world of Automation & Robotics Engineering.
 
 ## 💻 Technical Skills & Certifications
 
